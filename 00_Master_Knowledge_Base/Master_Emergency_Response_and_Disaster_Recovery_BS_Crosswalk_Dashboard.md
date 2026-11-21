@@ -1,0 +1,39 @@
+# Bahamas - Emergency Response and Disaster Recovery Crosswalk Dashboard
+
+**Jurisdiction:** US-BS Bahamas  
+**Sector:** Emergency Response and Disaster Recovery  
+**Generated:** 2026-11-21
+
+## Anchors
+- Colonial trade and slavery legacy
+- Climate change and hurricane exposure
+- Offshore finance and external regulatory pressure
+
+## Matrix
+| ID | Anchor | Evidence | Status |
+|---|---|---|---|
+| BS-EME-01 | Colonial trade and slavery legacy | PENDING_PRIMARY_SOURCE | SCAFFOLDED |
+| BS-EME-02 | Climate change and hurricane exposure | PENDING_PRIMARY_SOURCE | SCAFFOLDED |
+| BS-EME-03 | Offshore finance and external regulatory pressure | PENDING_PRIMARY_SOURCE | SCAFFOLDED |
+| BS-EME-04 | Colonial trade and slavery legacy | PENDING_PRIMARY_SOURCE | SCAFFOLDED |
+| BS-EME-05 | Climate change and hurricane exposure | PENDING_PRIMARY_SOURCE | SCAFFOLDED |
+
+## Guardrail
+No fabricated citations or docket numbers. Primary-source verification required before filing use.
+
+## Verified Source Citations (PENDING_LEGAL_REVIEW)
+
+Rule: No citation marked VERIFIED without local hashed source artifact and counsel sign-off.
+
+- BS-CIT-0001: UN Digital Library - Search | https://digitallibrary.un.org/search | local=`03_Evidentiary_Exhibits/Immutable_Ledger/BS_01_UN_Digital_Library_-_Search.html` | sha256=`e3b0c44298fc1c14...` | status=PENDING_LEGAL_REVIEW
+- BS-CIT-0002: Countries | OHCHR | https://www.ohchr.org/en/countries | local=`03_Evidentiary_Exhibits/Immutable_Ledger/BS_02_UN_OHCHR_-_Country_Pages_browser.html` | sha256=`49662d4dbf47bb6d...` | status=PENDING_LEGAL_REVIEW
+- BS-CIT-0003: UN Treaty Body Database | https://tbinternet.ohchr.org/_layouts/15/TreatyBodyExternal/TBSearch.aspx | local=`03_Evidentiary_Exhibits/Immutable_Ledger/BS_03_UN_Treaty_Body_Database.html` | sha256=`0c6bce180ba3cd35...` | status=PENDING_LEGAL_REVIEW
+- BS-CIT-0004: Universal Periodic Review | OHCHR | https://www.ohchr.org/en/hr-bodies/upr/upr-home | local=`03_Evidentiary_Exhibits/Immutable_Ledger/BS_04_UN_Human_Rights_Council_-_Universal_Periodic_Review_browser.html` | sha256=`cfdbc1bead5f916a...` | status=PENDING_LEGAL_REVIEW
+- BS-CIT-0005: IACHR :: Country Reports | https://www.oas.org/en/iachr/reports/country.asp | local=`03_Evidentiary_Exhibits/Immutable_Ledger/BS_05_IACHR_-_Country_Reports_browser.html` | sha256=`cf40fd0f747ec40c...` | status=PENDING_LEGAL_REVIEW
+- BS-CIT-0006: Annual Reports | https://www.oas.org/en/iachr/reports/ia.asp | local=`03_Evidentiary_Exhibits/Immutable_Ledger/BS_06_IACHR_-_Annual_Reports_browser.html` | sha256=`36ce54303131c67a...` | status=PENDING_LEGAL_REVIEW
+- BS-CIT-0007: US State Department - Country Reports on Human Rights Practices | https://www.state.gov/reports-bureau-of-democracy-human-rights-and-labor/country-reports-on-human-rights-practices/ | local=`03_Evidentiary_Exhibits/Immutable_Ledger/BS_07_US_State_Department_-_Country_Reports_on_Human_Rights_Practices.html` | sha256=`1247df151df829bd...` | status=PENDING_LEGAL_REVIEW
+- BS-CIT-0008: US State Department - Office of the Historian (FRUS) | https://history.state.gov/historicaldocuments | local=`03_Evidentiary_Exhibits/Immutable_Ledger/BS_08_US_State_Department_-_Office_of_the_Historian_FRUS.html` | sha256=`c948fdff783f2e5f...` | status=PENDING_LEGAL_REVIEW
+- BS-CIT-0009: NARA - Foreign Affairs Research | https://www.archives.gov/research/foreign-policy | local=`03_Evidentiary_Exhibits/Immutable_Ledger/BS_09_NARA_-_Foreign_Affairs_Research.html` | sha256=`c4cda55cb948dfd6...` | status=PENDING_LEGAL_REVIEW
+- BS-CIT-0010: CIA.gov 404 | https://www.cia.gov/reading-room/ | local=`03_Evidentiary_Exhibits/Immutable_Ledger/BS_10_CIA_FOIA_Electronic_Reading_Room_browser.html` | sha256=`237c2cfe65f25745...` | status=PENDING_LEGAL_REVIEW
+- BS-CIT-0011: Library of Congress - Research Guides / Country Studies | https://guides.loc.gov/ | local=`03_Evidentiary_Exhibits/Immutable_Ledger/BS_11_Library_of_Congress_-_Research_Guides_Country_Studies.html` | sha256=`8bd2a5666693337f...` | status=PENDING_LEGAL_REVIEW
+- BS-CIT-0012: Countries | Data | https://data.worldbank.org/country | local=`03_Evidentiary_Exhibits/Immutable_Ledger/BS_12_World_Bank_-_Country_Data_browser.html` | sha256=`97e51424fe833707...` | status=PENDING_LEGAL_REVIEW

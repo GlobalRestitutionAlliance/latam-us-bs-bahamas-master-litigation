@@ -1,0 +1,6 @@
+instrument_id,sector,anchor,claim_vector,evidence_status,status
+BS-JUD-01,Judicial Cooperation and Extradition,Colonial trade and slavery legacy,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+BS-JUD-02,Judicial Cooperation and Extradition,Climate change and hurricane exposure,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+BS-JUD-03,Judicial Cooperation and Extradition,Offshore finance and external regulatory pressure,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+BS-JUD-04,Judicial Cooperation and Extradition,Colonial trade and slavery legacy,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+BS-JUD-05,Judicial Cooperation and Extradition,Climate change and hurricane exposure,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
